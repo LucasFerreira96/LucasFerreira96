@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @LucasFerreira96
-- 👀 I’m dev student, currently learning NodeJS...
+- NodeJS Student
+- Santos - SP - lucas-ferreira@outlook.com
+- Everything gonna be alright this morning 
 
 <!---
 LucasFerreira96/LucasFerreira96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
